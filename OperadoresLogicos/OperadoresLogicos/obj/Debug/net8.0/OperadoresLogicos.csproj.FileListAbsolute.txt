@@ -1,0 +1,14 @@
+C:\Users\becke\Documents\CST\C-Sharp\Master\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.exe
+C:\Users\becke\Documents\CST\C-Sharp\Master\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.deps.json
+C:\Users\becke\Documents\CST\C-Sharp\Master\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.runtimeconfig.json
+C:\Users\becke\Documents\CST\C-Sharp\Master\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.dll
+C:\Users\becke\Documents\CST\C-Sharp\Master\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.pdb
+C:\Users\becke\Documents\CST\C-Sharp\Master\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\becke\Documents\CST\C-Sharp\Master\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\becke\Documents\CST\C-Sharp\Master\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\becke\Documents\CST\C-Sharp\Master\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\becke\Documents\CST\C-Sharp\Master\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.dll
+C:\Users\becke\Documents\CST\C-Sharp\Master\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\refint\OperadoresLogicos.dll
+C:\Users\becke\Documents\CST\C-Sharp\Master\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.pdb
+C:\Users\becke\Documents\CST\C-Sharp\Master\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.genruntimeconfig.cache
+C:\Users\becke\Documents\CST\C-Sharp\Master\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\ref\OperadoresLogicos.dll

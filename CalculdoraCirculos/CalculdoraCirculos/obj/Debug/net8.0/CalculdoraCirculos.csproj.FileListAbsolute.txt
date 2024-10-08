@@ -1,0 +1,14 @@
+C:\Users\becke\Documents\CST\C-Sharp\Master\CalculdoraCirculos\CalculdoraCirculos\bin\Debug\net8.0\CalculdoraCirculos.exe
+C:\Users\becke\Documents\CST\C-Sharp\Master\CalculdoraCirculos\CalculdoraCirculos\bin\Debug\net8.0\CalculdoraCirculos.deps.json
+C:\Users\becke\Documents\CST\C-Sharp\Master\CalculdoraCirculos\CalculdoraCirculos\bin\Debug\net8.0\CalculdoraCirculos.runtimeconfig.json
+C:\Users\becke\Documents\CST\C-Sharp\Master\CalculdoraCirculos\CalculdoraCirculos\bin\Debug\net8.0\CalculdoraCirculos.dll
+C:\Users\becke\Documents\CST\C-Sharp\Master\CalculdoraCirculos\CalculdoraCirculos\bin\Debug\net8.0\CalculdoraCirculos.pdb
+C:\Users\becke\Documents\CST\C-Sharp\Master\CalculdoraCirculos\CalculdoraCirculos\obj\Debug\net8.0\CalculdoraCirculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\becke\Documents\CST\C-Sharp\Master\CalculdoraCirculos\CalculdoraCirculos\obj\Debug\net8.0\CalculdoraCirculos.AssemblyInfoInputs.cache
+C:\Users\becke\Documents\CST\C-Sharp\Master\CalculdoraCirculos\CalculdoraCirculos\obj\Debug\net8.0\CalculdoraCirculos.AssemblyInfo.cs
+C:\Users\becke\Documents\CST\C-Sharp\Master\CalculdoraCirculos\CalculdoraCirculos\obj\Debug\net8.0\CalculdoraCirculos.csproj.CoreCompileInputs.cache
+C:\Users\becke\Documents\CST\C-Sharp\Master\CalculdoraCirculos\CalculdoraCirculos\obj\Debug\net8.0\CalculdoraCirculos.dll
+C:\Users\becke\Documents\CST\C-Sharp\Master\CalculdoraCirculos\CalculdoraCirculos\obj\Debug\net8.0\refint\CalculdoraCirculos.dll
+C:\Users\becke\Documents\CST\C-Sharp\Master\CalculdoraCirculos\CalculdoraCirculos\obj\Debug\net8.0\CalculdoraCirculos.pdb
+C:\Users\becke\Documents\CST\C-Sharp\Master\CalculdoraCirculos\CalculdoraCirculos\obj\Debug\net8.0\CalculdoraCirculos.genruntimeconfig.cache
+C:\Users\becke\Documents\CST\C-Sharp\Master\CalculdoraCirculos\CalculdoraCirculos\obj\Debug\net8.0\ref\CalculdoraCirculos.dll
