@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yI9AReNxMss=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\becke\\Documents\\CST\\C-Sharp\\Master\\ConsumoAPI\\ConsumoAPI\\ConsumoAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\becke\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
