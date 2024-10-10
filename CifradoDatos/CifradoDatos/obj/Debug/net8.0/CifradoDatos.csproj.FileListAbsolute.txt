@@ -1,0 +1,14 @@
+C:\Users\becke\Documents\CST\C-Sharp\Master\CifradoDatos\CifradoDatos\bin\Debug\net8.0\CifradoDatos.exe
+C:\Users\becke\Documents\CST\C-Sharp\Master\CifradoDatos\CifradoDatos\bin\Debug\net8.0\CifradoDatos.deps.json
+C:\Users\becke\Documents\CST\C-Sharp\Master\CifradoDatos\CifradoDatos\bin\Debug\net8.0\CifradoDatos.runtimeconfig.json
+C:\Users\becke\Documents\CST\C-Sharp\Master\CifradoDatos\CifradoDatos\bin\Debug\net8.0\CifradoDatos.dll
+C:\Users\becke\Documents\CST\C-Sharp\Master\CifradoDatos\CifradoDatos\bin\Debug\net8.0\CifradoDatos.pdb
+C:\Users\becke\Documents\CST\C-Sharp\Master\CifradoDatos\CifradoDatos\obj\Debug\net8.0\CifradoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\becke\Documents\CST\C-Sharp\Master\CifradoDatos\CifradoDatos\obj\Debug\net8.0\CifradoDatos.AssemblyInfoInputs.cache
+C:\Users\becke\Documents\CST\C-Sharp\Master\CifradoDatos\CifradoDatos\obj\Debug\net8.0\CifradoDatos.AssemblyInfo.cs
+C:\Users\becke\Documents\CST\C-Sharp\Master\CifradoDatos\CifradoDatos\obj\Debug\net8.0\CifradoDatos.csproj.CoreCompileInputs.cache
+C:\Users\becke\Documents\CST\C-Sharp\Master\CifradoDatos\CifradoDatos\obj\Debug\net8.0\CifradoDatos.dll
+C:\Users\becke\Documents\CST\C-Sharp\Master\CifradoDatos\CifradoDatos\obj\Debug\net8.0\refint\CifradoDatos.dll
+C:\Users\becke\Documents\CST\C-Sharp\Master\CifradoDatos\CifradoDatos\obj\Debug\net8.0\CifradoDatos.pdb
+C:\Users\becke\Documents\CST\C-Sharp\Master\CifradoDatos\CifradoDatos\obj\Debug\net8.0\CifradoDatos.genruntimeconfig.cache
+C:\Users\becke\Documents\CST\C-Sharp\Master\CifradoDatos\CifradoDatos\obj\Debug\net8.0\ref\CifradoDatos.dll
