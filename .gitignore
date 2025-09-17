@@ -1,8 +1,0 @@
-# Ignorar todos los archivos
-*
-
-# No ignorar directorios
-!*/
-
-# No ignorar archivos .cs
-!*.cs
